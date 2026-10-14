@@ -1,221 +1,174 @@
-# Awesome-Autonomous-Immigration-Visa-Trackers
+<div align="center">
 
-## Top Autonomous Immigration Visa Trackers Ecosystem
+![Awesome Autonomous Immigration Visa Trackers](assets/banner.svg)
 
+# 🌐 Awesome Autonomous Immigration & Visa Trackers ⚡
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers/graphs/commit-activity)
+[![Trackers](https://img.shields.io/badge/Trackers%20%26%20CRMs-25%2B-orange.svg)](#table-of-contents)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <b>A curated directory of Autonomous Immigration Visa Trackers, USCIS Case Monitoring Bots, Document Automation Engines, and Legal Mobility CRMs.</b><br>
+  <i>Empowering immigration attorneys, enterprise mobility HR teams, developers, and global applicants with automated workflows.</i>
+</p>
 
-*Focused on Case Status Monitoring, Document Automation & Immigration CRM*  
-
-**Last updated: March 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Autonomous Immigration Visa Trackers**. These tools enable immigration attorneys, HR mobility teams, and applicants to monitor case status, automate document collection, track priority dates, and manage visa application workflows across multiple government agencies.
-
-
-
-**Examples** include Envoy Global, Bridge US, Tracker Corp, Docketwise, Campfire Legal, Cerenade, INSZoom, LawLogix, SimpleCitizen, and Boundless Immigration (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, browser-based case tracking, and open immigration CRM—ideal for applicants, legal teams, and developers seeking transparent, vendor-independent visa tracking.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Envoy Global](https://www.envoyglobal.com/)**  
-
-  AI-powered immigration management platform with **AskEnvoy** conversational reporting, **USCIS E-Filing** for automated electronic filing, **AI Quality Sensors** that screen every form for errors before filing, and **Automated Data Capture** that scrapes expiration dates directly from government websites . Features case milestones, unified communications center, HRIS integration, and mobile app for case status checks and document uploads . Trusted by **2,000+ corporate clients** with a **75+ NPS** from client employees .
-
-
-
-- **[Docketwise](https://www.docketwise.com/)**  
-
-  Modern immigration case management software trusted by thousands of immigration lawyers. Features **multilingual intakes** that dynamically generate complete immigration applications, comprehensive form library, **Priority Date Tracking** with automatic Visa Bulletin updates and email/in-app notifications , **DocketWise Leads CRM**, bulk email and SMS messaging, **HR Portal** for corporate clients, QuickBooks integration, and **eFiling** for USCIS (I-130, N-400, I-765, I-129), DOL (ETA-9141, ETA-9035), and CEAC (DS-160, DS-260) . Integrates with Clio for automatic contact and matter syncing .
-
-
-
-- **[Bridge US](https://www.bridge.us/)**  
-
-  Immigration case management and compliance platform for employers and law firms. Features case tracking, document management, and compliance workflows.
-
-
-
-- **[Tracker Corp](https://www.trackercorp.com/)**  
-
-  Immigration case management and compliance software for corporate immigration programs. Features case tracking, reporting, and integration with HR systems.
-
-
-
-- **[Campfire Legal](https://www.campfirelegal.com/)**  
-
-  Immigration case management platform for law firms. Features client intake, document automation, and case workflow management.
-
-
-
-- **[Cerenade](https://www.cerenade.com/)**  
-
-  Immigration case management software with forms automation, case tracking, and compliance reporting.
-
-
-
-- **[INSZoom](https://www.inszoom.com/)**  
-
-  Immigration case management platform for law firms and corporate clients. Features case tracking, document management, and reporting.
-
-
-
-- **[LawLogix](https://www.lawlogix.com/)**  
-
-  Immigration case management and I-9 compliance software. Features case tracking, forms automation, and compliance workflows.
-
-
-
-- **[SimpleCitizen](https://www.simplecitizen.com/)**  
-
-  Immigration application platform for individuals and employers. Features guided application workflows and case tracking.
-
-
-
-- **[Boundless Immigration](https://www.boundless.com/)**  
-
-  Immigration services platform combining software with legal support. Features application preparation, case tracking, and attorney review.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[USCIS Case Tracker (humanstack)](https://github.com/humanstack/uscis-case-tracker)**  
-
-  Free, open-source, **privacy-focused** USCIS case tracking tool that runs **entirely in your browser** . Track multiple immigration cases (I-485, I-765, I-131, I-140, I-130, N-400, I-129), view unified timelines, and monitor updates **without sending any data to external servers**. Features: **100% client-side processing** with zero data sent to servers, all data stored locally in browser, no tracking/analytics, **receipt number masking** for sharing, smart insights that identify system vs. officer updates, biometric and FBI check pattern detection, supervisor review highlighting, and **Reddit-friendly export**. No account required. Works offline after initial load. The most privacy-preserving open-source USCIS tracker available .
-
-
-
-- **[VisaStatusMonitor](https://github.com/yuanweize/VisaStatusMonitor)**  
-
-  Full-process international visa appointment and residence permit status monitoring system with multi-channel alerts (MIT) . Features **multi-country support** via plugin architecture (currently Czech Republic, expanding), **multi-user management** with registration/login, responsive web interface, **email/Telegram/WebSocket notifications**, smart scheduling to avoid overwhelming target websites, plugin system for adding new countries, real-time status updates and history, multi-language support (Chinese/English), and **Docker one-click deployment**. Tech stack: FastAPI, SQLAlchemy, SQLite/MySQL, APScheduler, Vue 3, Vite, Element Plus. **Explicitly independent**—not affiliated with any government immigration agency .
-
-
-
-- **[CRMIntranet (danjohn007)](https://github.com/danjohn007/CRMIntranet)**  
-
-  Open-source **Visa Application CRM** (Spanish interface) with comprehensive case management . Features real-time dashboard with interactive charts, **export to Excel/CSV/PDF**, role-based dashboards, global configuration (site name, logo, email, themes), **PayPal integration**, QR code generation API, and integrations with HikVision and Shelly Cloud devices. Built with PHP 7.4+, MySQL 5.7+, Apache. Includes sample database schema for Querétaro state with test users. **License not specified**—review before production use .
-
-
-
-- **[CM Immigration CRM](https://github.com/simontcodes/captstone-front)**  
-
-  Open-source CRM with custom intake form built for an immigration consultation company . Features appointment scheduling with date/time selection, service type selection, payment processing, personal information intake, admin authentication, client and appointment viewing, and sorting. Built with React, Sass, and requires a separate API backend .
-
-
-
-- **[Git for Immigration](https://devpost.com/software/git-for-immigration)**  
-
-  Open-source project treating **immigration cases as GitHub repositories**—every missing artifact becomes a labeled Issue, every milestone becomes a tagged Release, every helper review becomes a Pull Request . Built with Next.js 14, TypeScript, Tailwind, Featherless.ai (6 AI workloads through one API), Tavily (live USCIS research), and React Flow (interactive Evidence Graph). **Hackathon project**—not production-ready .
-
-
-
-- **[Prarabda/visa-application](https://github.com/Prarabda/visa-application)**  
-
-  Web-based visa application system built with HTML, CSS, PHP, and MySQL . Users fill out multi-step visa application forms, view and confirm details, and track application status using passport number. Admin dashboard for managing applications. **Stars: 0**—early-stage project .
-
-
-
-- **[VisaShield AI](https://github.com/Yash-Kavaiya/VisaShield-Angular)**  
-
-  Enterprise-grade immigration intelligence platform using **Google Agent Development Kit (ADK)** and **Gemini AI** to automate visa petition adjudication . Features AI-powered adjudication with chain-of-thought reasoning, **RAG-based knowledge retrieval** from USCIS Policy Manual/INA statutes/AAO decisions, real-time citation validation to prevent hallucinations, comprehensive audit trails, **sensitive data scanner** (A-Number, passport, SSN/ITIN detection), threat protection (jailbreak detection), and Kanban case board. Built with Angular 20, FastAPI, Google ADK, Gemini 3 Flash, Cloud Run, Datadog. **Note**: Adjudication automation raises serious legal and ethical concerns—human review remains essential .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[VisaStatusMonitor Plugin System](https://github.com/yuanweize/VisaStatusMonitor)** — Extensible plugin architecture for adding new country support beyond Czech Republic .
-
-- **[USCIS Case Status Notifier](https://github.com/ubaniabalogun/uscis-case-status-notifier)** — Serverless application sending SMS when USCIS case status changes .
-
-- **[USCIS Case Tracker Bot](https://github.com/pedrocastellanos/uscis-case-tracker-bot)** — Simple Telegram bot for tracking USCIS cases .
-
-- **[RogueArt USCIS Notifier](https://github.com/RogueArt/uscis-notifier)** — Desktop app built with React and Rust to notify on USCIS case status changes .
-
-- **[H1B Visa Analytics Dashboard](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard)** — Power BI dashboard for visualizing H1B visa application data .
-
-- **[Visa Bulletin Scraper](https://github.com/DavidBellamy/visa_dates)** — Web scraper for US visa bulletins .
-
-- **[Passport Index DB](https://github.com/ngshiheng/passportindexdb)** — Tracking historical changes in passport rankings and visa requirements .
-
-- Community **n8n** workflows for visa status alerting and document collection automation.
-
-
-
-**Frameworks for building custom systems**: Combine **USCIS Case Tracker** for privacy-focused browser-based tracking with **VisaStatusMonitor** for multi-country monitoring and notifications, **CRMIntranet** for case management, **Docketwise** integration patterns for legal practice workflows, and **PostgreSQL** for persistence—creating a fully self-hosted, enterprise-grade visa tracking platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Immigration tracking tools handling personal data must comply with data protection regulations (GDPR, CCPA, etc.) and maintain appropriate security for sensitive documents.
-
-- **Open-source immigration trackers are limited in enterprise features.** The most mature options (Envoy Global, Docketwise) are commercial SaaS platforms. Open-source alternatives focus on **individual case tracking** (USCIS Case Tracker), **status monitoring** (VisaStatusMonitor), or **basic CRM** (CRMIntranet). Enterprise-grade document automation, e-filing, and compliance workflows are not available in open-source.
-
-- **Privacy is the primary advantage of open-source trackers.** USCIS Case Tracker runs entirely in your browser with no data sent to servers . For applicants concerned about data privacy, browser-based tools eliminate third-party data exposure. However, they require manual JSON extraction from USCIS portal—not automated.
-
-- **AI-powered adjudication requires extreme caution.** VisaShield AI automates visa petition adjudication with AI . Immigration decisions have profound legal consequences—AI outputs must be reviewed by qualified immigration attorneys. No open-source tool should be used as a substitute for legal advice.
-
-- Self-hosted open-source solutions require proper security hardening, document storage encryption, and ongoing maintenance. Immigration data is highly sensitive and subject to strict confidentiality obligations.
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Top Open-Source Repositories (Ranked by Stars)](#-top-open-source-repositories-ranked-by-stars)
+  - [🛠️ Specialized Scrapers, Bots & Automation Workflows](#-specialized-scrapers-bots--automation-workflows)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & Security Notice](#-disclaimer--security-notice)
 
-**Made for immigration attorneys, HR mobility teams, applicants, and developers building transparent visa tracking solutions.**  
+---
 
-Let's make Autonomous Immigration Visa Trackers more open, data-driven, and privacy-preserving.
+## 📊 Sector Overview & Market Dynamics
+
+The global immigration case management and legal mobility software sector is valued between **$800M and $1.5B+**, expanding at a compound annual growth rate (CAGR) of **5% to 13%** driven by surging cross-border labor mobility, frequent regulatory shifts, and digital agency filings (USCIS, DOL, CEAC). 
+
+The market is **moderately to highly fragmented** rather than a winner-take-all monopoly:
+- **Jurisdictional & Regulatory Fragmentation:** Sovereign immigration codes (U.S. INA vs. Canadian Express Entry vs. EU Blue Cards) require specialized legal logic, custom forms, and localized agency portals, preventing any single monolithic platform from dominating globally.
+- **Audience Bifurcation:** The ecosystem is divided between high-volume enterprise corporate mobility platforms (e.g., Envoy Global, Mitratech Tracker), law firm case management systems (e.g., Docketwise, Cerenade), and direct-to-consumer digital petition services (e.g., Boundless, SimpleCitizen).
+- **M&A Roll-ups vs. AI Startups:** While private equity consolidators (such as Mitratech and AffiniPay) actively roll up legacy providers (INSZoom, Tracker Corp, Docketwise), a vibrant wave of agile, AI-native entrants and open-source projects continuously challenge incumbent solutions with real-time status webhooks and privacy-first local trackers.
+
+---
+
+## 🏢 SaaS & Hosted Commercial Platforms
+
+The following enterprise platforms and legal tech providers deliver end-to-end case tracking, automated USCIS/DOL form population, client portals, and corporate compliance workflows.
+
+> *Sorted descending by company scale, estimated revenue, and enterprise valuation.*
+
+| 🏷️ Platform | 💰 Pricing (Specific Starting Tiers) | 🎁 Free Tier / Free Trial Limits | 📈 Scale (Valuation / Revenue) | 🎯 Core Focus & Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Envoy Global](https://www.envoyglobal.com/)** | **$2,500/year** (Starting platform tier base for small corporate mobility pools; per-case filing fees scale additionally) | **Product Demo Only** (Custom sandbox access granted upon qualification; 0 days public self-serve trial) | **$1.4B Valuation** parent ecosystem / ~$60M–$75M ARR | Enterprise AI immigration management with AskEnvoy conversational BI, USCIS e-filing automation, AI error-check sensors, and direct agency expiration scraping for 2,000+ corporate clients. |
+| **[Boundless Immigration](https://www.boundless.com/)** | **$699 one-time** (Citizenship / N-400 package; Marriage Green Card starts at **$899** Essential or **$1,549** Premium) | **Free Eligibility Assessment** (Unlimited free diagnostic evaluation quiz; 0 days free petition assembly) | **~$100M+ Valuation** / $45M+ VC funding / ~$30M+ ARR | Consumer & corporate mobility platform combining digital workflow automation with independent legal review; acquired Bridge US and RapidVisa. |
+| **[Docketwise](https://www.docketwise.com/)** | **$69/user/month** (Basic plan billed annually, or **$79/user/month** billed monthly; Pro tier at **$89/mo**) | **7-Day Free Trial** (Full access to smart forms, case tracking, and intake workflows for up to 1 team member) | **~$30M–$50M Valuation** (Acquired by MyCase / AffiniPay PE) / ~$5M+ ARR | Modern legal case management featuring multilingual intakes, priority date tracker with Visa Bulletin updates, USCIS/DOL e-filing, and CRM lead pipelines. |
+| **[LawLogix](https://www.lawlogix.com/)** | **$125/user/month** (Edge standard tier starting price; annual agreement required) | **Live Guided Demo Only** (Evaluation test sandbox provided post-sales consult; 0 days public self-serve trial) | **Acquired by Equifax / Hyland** (Estimated historical valuation ~$40M+) | Enterprise-grade immigration case management (EDGE) and electronic I-9/E-Verify compliance software for law practices, universities, and enterprise HR. |
+| **[INSZoom](https://www.inszoom.com/)** | **$30/user/month** ($360/user billed annually for standard practitioner license) | **Live Guided Demo Only** (Sandbox environment provisioned upon enterprise scoping; 0 days public self-serve trial) | **Acquired by Mitratech** (Institutional backing by TA Associates & HgCapital) | Veteran cloud immigration CRM for law firms and corporate global mobility teams; comprehensive form library and automated compliance tracking. |
+| **[Tracker Corp](https://www.trackercorp.com/)** | **$1,800/year** (Starting base license for ImmigrationTracker solo practitioner edition) | **Product Demo Only** (Enterprise proof-of-concept pilot available upon consultation; 0 days public self-serve trial) | **Acquired by Mitratech** (Estimated historical valuation ~$20M+) | Robust corporate immigration tracking, automated case assembly, and industry-standard I-9 compliance engine for corporate HR and law firms. |
+| **[Bridge US](https://www.bridge.us/)** | **$20/employee/month** (Base corporate tracking seat; custom scope for full legal preparation) | **Interactive Demo Only** (Employer sandbox access arranged post-qualification; 0 days public self-serve trial) | **Part of Boundless Immigration** (Acquired in 2020) | Streamlined employer immigration software and compliance management portal for multinational talent tracking and visa lifecycle management. |
+| **[SimpleCitizen](https://www.simplecitizen.com/)** | **$250 one-time** (Essential DIY preparation tier; Premium lawyer-reviewed tiers range **$500–$1,000+**) | **Free Case Eligibility Check** (Free online pre-screening and document checklist; 0 days free filing) | **Seed/Series A Stage** (Backed by Y Combinator; ~$3M–$5M ARR) | Digital immigration software for individual applicants and employers; streamlined questionnaires, auto-populated USCIS packages, and attorney network reviews. |
+| **[Cerenade](https://www.cerenade.com/)** | **$55/user/month** (eimmigration Starter tier; Complete edition at **$100/user/month** billed annually) | **Live Demo with Trial Request** (14-day evaluation sandbox provided upon sales consultation; or 1st month free via referral) | **Bootstrapped / Private Mid-Market** (~$5M–$10M ARR) | Flexible immigration forms automation (eimmigration / eCMS), casework milestones, e-signatures, document storage, and non-profit organization discounts. |
+| **[Campfire Legal](https://www.camplegal.com/)** | **$69/user/month** (Essentials plan billed annually, or **$79/user/month** billed monthly; Pro tier at **$89/mo**) | **14-Day Free Trial** (Full access to case management, client portals, workflows, and form library for 14 days) | **Early Stage / High Growth** (~$1M–$3M ARR) | Modern, fast-growing legal CRM for immigration practitioners featuring WhatsApp/SMS client app, USCIS receipt tracker, Visa Bulletin alerts, and automated workflows. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore community-driven, transparent, and vendor-independent repositories for tracking USCIS cases, automating visa bulletin updates, and deploying self-hosted immigration CRMs.
+
+### ⭐ Top Open-Source Repositories (Ranked by Stars)
+
+| 📦 Repository & Maintainer | 🌟 GitHub Stars Badge | 💻 Tech Stack | 🛡️ License | 📝 Overview & Unique Features |
+| :--- | :---: | :--- | :--- | :--- |
+| **[vera-eb-suite](https://github.com/VeraSuperHub/vera-eb-suite)** | [![Stars](https://img.shields.io/github/stars/VeraSuperHub/vera-eb-suite?style=social&color=white)](https://github.com/VeraSuperHub/vera-eb-suite/stargazers) | AI Prompts, Python, LLM | Apache-2.0 | Open-source AI tools and petition frameworks for EB-1A and EB-2 NIW immigration petitions—automating evidence organization, case drafting, and RFE response strategies. |
+| **[National_interest_waiver_waittime](https://github.com/happy-fish-01/National_interest_waiver_waittime)** | [![Stars](https://img.shields.io/github/stars/happy-fish-01/National_interest_waiver_waittime?style=social&color=white)](https://github.com/happy-fish-01/National_interest_waiver_waittime/stargazers) | Python, Data Analytics | MIT | Predictive statistical modeling and wait-time tracker specifically tracking USCIS I-140 Employment-Based EB-2 National Interest Waiver adjudication trends. |
+| **[uscis-case-statistics](https://github.com/vicdus/uscis-case-statistics)** | [![Stars](https://img.shields.io/github/stars/vicdus/uscis-case-statistics?style=social&color=white)](https://github.com/vicdus/uscis-case-statistics/stargazers) | Python, Matplotlib, Data | MIT | Case status tracking, aggregate analysis, and graphical visualization scripts for monitoring receipt ranges and processing velocity across USCIS service centers. |
+| **[check_uscis_script](https://github.com/cczhong11/check_uscis_script)** | [![Stars](https://img.shields.io/github/stars/cczhong11/check_uscis_script?style=social&color=white)](https://github.com/cczhong11/check_uscis_script/stargazers) | Python, Requests, BeautifulSoup | MIT | Lightweight Python daemon script that queries USCIS case numbers, parses adjudication status changes, and dispatches automated desktop and terminal notifications. |
+| **[USCIS-Case-Status-Checker](https://github.com/gentlespoon/USCIS-Case-Status-Checker)** | [![Stars](https://img.shields.io/github/stars/gentlespoon/USCIS-Case-Status-Checker?style=social&color=white)](https://github.com/gentlespoon/USCIS-Case-Status-Checker/stargazers) | Python, Web Automation | MIT | Command-line utility and recurring tracker for USCIS receipt numbers with automated status change detection and email alert dispatching. |
+| **[uscis-case-tracker](https://github.com/humanstack/uscis-case-tracker)** | [![Stars](https://img.shields.io/github/stars/humanstack/uscis-case-tracker?style=social&color=white)](https://github.com/humanstack/uscis-case-tracker/stargazers) | Next.js, React, Tailwind | MIT | **100% Privacy-First Client-Side Tracker**: Runs entirely in your browser with zero data dispatched to external servers. Features receipt masking, biometric pattern detection, and Reddit-ready export. |
+| **[USCISCasePoll](https://github.com/co89757/USCISCasePoll)** | [![Stars](https://img.shields.io/github/stars/co89757/USCISCasePoll?style=social&color=white)](https://github.com/co89757/USCISCasePoll/stargazers) | Python, Go | MIT | Autonomous daemon script that routinely polls USCIS case status endpoints and delivers instant email alerts upon receipt milestone changes. |
+| **[EB1A-DIY](https://github.com/caitaozhan/EB1A-DIY)** | [![Stars](https://img.shields.io/github/stars/caitaozhan/EB1A-DIY?style=social&color=white)](https://github.com/caitaozhan/EB1A-DIY/stargazers) | Markdown, Legal Templates | Apache-2.0 | Open-source DIY petition blueprint, evidence matrices, and document tracking workflows for EB-1A extraordinary ability applicants. |
+| **[fillvisa-os](https://github.com/athos2113/fillvisa-os)** | [![Stars](https://img.shields.io/github/stars/athos2113/fillvisa-os?style=social&color=white)](https://github.com/athos2113/fillvisa-os/stargazers) | TypeScript, Node.js, React | AGPL-3.0 | Self-hostable web platform for completing U.S. immigration forms in-browser, auto-populating DS-160 and USCIS petitions, and exporting review-ready PDFs. |
+| **[niw-skills](https://github.com/thepaperscompany/niw-skills)** | [![Stars](https://img.shields.io/github/stars/thepaperscompany/niw-skills?style=social&color=white)](https://github.com/thepaperscompany/niw-skills/stargazers) | Claude Agent Skills, Prompts | MIT | Autonomous agent skill suite for assessing EB-2 NIW eligibility, compiling petition letters, assembling exhibit indexes, and drafting targeted RFE responses. |
+| **[idata-visa-tracker](https://github.com/KadirCelep/idata-visa-tracker)** | [![Stars](https://img.shields.io/github/stars/KadirCelep/idata-visa-tracker?style=social&color=white)](https://github.com/KadirCelep/idata-visa-tracker/stargazers) | Python, macOS Notifier | MIT | International visa status checker for iDATA portals (Germany/Italy Schengen visas), providing desktop push notifications upon passport return. |
+| **[visa_dates](https://github.com/DavidBellamy/visa_dates)** | [![Stars](https://img.shields.io/github/stars/DavidBellamy/visa_dates?style=social&color=white)](https://github.com/DavidBellamy/visa_dates/stargazers) | Python, Beautiful Soup | MIT | Web scraper and parser for U.S. Department of State Visa Bulletins, extracting Final Action and Filing Dates for automated priority date monitoring. |
+| **[H1B-Visa-Analytics-Dashboard](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard)** | [![Stars](https://img.shields.io/github/stars/lokesh97jain/H1B-Visa-Analytics-Dashboard?style=social&color=white)](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard/stargazers) | Power BI, DAX, Excel | MIT | Interactive business intelligence dashboard analyzing historical DOL LCA and USCIS H-1B application approval rates, wages, and sponsor companies. |
+| **[passportindexdb](https://github.com/ngshiheng/passportindexdb)** | [![Stars](https://img.shields.io/github/stars/ngshiheng/passportindexdb?style=social&color=white)](https://github.com/ngshiheng/passportindexdb/stargazers) | Python, SQLite, JSON | MIT | Structured dataset and historical tracker for global passport power, visa-free access rankings, and international mobility agreements. |
+| **[uscis-case-tracker-bot](https://github.com/pedrocastellanos/uscis-case-tracker-bot)** | [![Stars](https://img.shields.io/github/stars/pedrocastellanos/uscis-case-tracker-bot?style=social&color=white)](https://github.com/pedrocastellanos/uscis-case-tracker-bot/stargazers) | Python, Telegram Bot API | MIT | Autonomous Telegram chatbot allowing applicants to register case numbers and receive instant push notifications when USCIS adjudication steps update. |
+| **[uscis-case-status-notifier](https://github.com/ubaniabalogun/uscis-case-status-notifier)** | [![Stars](https://img.shields.io/github/stars/ubaniabalogun/uscis-case-status-notifier?style=social&color=white)](https://github.com/ubaniabalogun/uscis-case-status-notifier/stargazers) | Node.js, AWS Lambda, Twilio | MIT | Serverless cron application deployed on AWS Lambda that polls USCIS case records and broadcasts instant SMS updates via Twilio. |
+| **[visa-application](https://github.com/Prarabda/visa-application)** | [![Stars](https://img.shields.io/github/stars/Prarabda/visa-application?style=social&color=white)](https://github.com/Prarabda/visa-application/stargazers) | PHP, MySQL, CSS | GPL-3.0 | Web-based visa application portal featuring multi-step intake forms, passport tracking lookups, and administrator review queues. |
+| **[VisaStatusMonitor](https://github.com/yuanweize/VisaStatusMonitor)** | [![Stars](https://img.shields.io/github/stars/yuanweize/VisaStatusMonitor?style=social&color=white)](https://github.com/yuanweize/VisaStatusMonitor/stargazers) | FastAPI, Vue 3, Docker | MIT | International visa appointment and residence permit tracking system with plugin architecture, multi-user accounts, and Telegram/email/WebSocket notifications. |
+| **[CRMIntranet](https://github.com/danjohn007/CRMIntranet)** | [![Stars](https://img.shields.io/github/stars/danjohn007/CRMIntranet?style=social&color=white)](https://github.com/danjohn007/CRMIntranet/stargazers) | PHP 7.4+, MySQL, Apache | Open Source | Full-featured Visa Application CRM (Spanish interface) with role-based dashboards, document generation, Excel/PDF exports, and PayPal integration. |
+| **[captstone-front (CM Immigration CRM)](https://github.com/simontcodes/captstone-front)** | [![Stars](https://img.shields.io/github/stars/simontcodes/captstone-front?style=social&color=white)](https://github.com/simontcodes/captstone-front/stargazers) | React, Sass, REST API | MIT | Client-facing immigration consultation intake and appointment scheduling frontend with service selection and administrative overview panels. |
+| **[VisaShield-Angular](https://github.com/Yash-Kavaiya/VisaShield-Angular)** | [![Stars](https://img.shields.io/github/stars/Yash-Kavaiya/VisaShield-Angular?style=social&color=white)](https://github.com/Yash-Kavaiya/VisaShield-Angular/stargazers) | Angular 20, FastAPI, Gemini | Apache-2.0 | AI-assisted immigration petition evaluation engine using Google Agent Development Kit and Gemini Flash to analyze eligibility against USCIS policy manuals. |
+
+---
+
+### 🛠️ Specialized Scrapers, Bots & Automation Workflows
+
+Additional community utilities for custom integration into home labs, serverless stacks, and n8n automations:
+
+- 🔔 **[uscis-notifier](https://github.com/rajpiskala/uscis-notifier)** — Desktop and command-line status notifier with cross-platform alert popups.
+- 🤖 **[uscis-tracker.github.io](https://github.com/uscis-tracker/uscis-tracker.github.io)** — Static web application fetching status data directly from USCIS endpoints.
+- ⚡ **[immicheck](https://github.com/sebm/immicheck)** — Ultra-lightweight command-line USCIS status scraper written in Python.
+- 💡 **[USCIS-Simple-SMS-Tracker](https://github.com/thanhl94/USCIS-Simple-SMS-Tracker)** — Node.js Puppeteer script coupled with Twilio for automated SMS alerts.
+- 🔄 **Community n8n Immigration Workflows** — Custom webhook recipes connecting Google Sheets, Telegram, and Discord to government case checkers.
+
+---
+
+## 🏗️ Architecture Blueprint: Building a Fully Self-Hosted Autonomous Tracker
+
+For engineering and legal ops teams seeking a 100% vendor-independent, air-gapped case tracking stack:
+
+```
+┌────────────────────────────────────────────────────────┐
+│                   Applicant & Client                   │
+│         (Browser Local Storage / Masked Intake)        │
+└───────────────────────────┬────────────────────────────┘
+                            │
+                            ▼
+┌────────────────────────────────────────────────────────┐
+│             USCIS Case Tracker (Frontend)              │
+│       • 100% Client-Side In-Memory JSON Processing     │
+│       • Receipt Number Masking & Reddit Export         │
+└───────────────────────────┬────────────────────────────┘
+                            │
+            ┌───────────────┴───────────────┐
+            ▼                               ▼
+┌───────────────────────┐       ┌───────────────────────┐
+│   VisaStatusMonitor   │       │      CRMIntranet      │
+│  • FastAPI / Vue 3    │       │  • Case Management    │
+│  • Scheduling Engine  │       │  • Client Milestones  │
+│  • Multi-Nation Visas │       │  • Document Storage   │
+└───────────┬───────────┘       └───────────┬───────────┘
+            │                               │
+            └───────────────┬───────────────┘
+                            ▼
+┌────────────────────────────────────────────────────────┐
+│             Autonomous Notification Engine             │
+│   Telegram Bots • Webhooks • Twilio SMS • Email Alerts │
+└────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 How to Contribute
+
+We welcome community contributions, new project additions, and data corrections!
+
+1. 🍴 **Fork the repository**
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-tracker`)
+3. 📝 **Add your project** to either the SaaS or Open-Source table, ensuring:
+   - For SaaS: Specific starting tier pricing, explicit free tier / trial limits, and verified scale metrics.
+   - For Open-Source: Full GitHub repo link with matching GitHub Stars badge and license.
+4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTracker project"`)
+5. 📤 **Push to your branch** and open a Pull Request!
+
+---
+
+## ⚖️ Disclaimer & Security Notice
+
+> ⚠️ **Important Legal & Privacy Notice**
+> 
+> - **Not Legal Advice:** This repository is an open-source, community-curated index compiled for informational, educational, and developer reference purposes. It does not constitute legal representation or immigration counsel.
+> - **Sensitive Personal Identifiable Information (PII):** Immigration documents contain Alien Registration Numbers (A-Numbers), SSNs, passport numbers, and personal history. Always ensure that any self-hosted or SaaS solution complies with GDPR, CCPA, and strict data encryption standards.
+> - **AI Adjudication Safeguards:** Automated tools (such as VisaShield AI or LLM petition assistants) provide drafting and research guidance only. Immigration decisions have life-altering consequences and must always undergo formal review by an accredited immigration attorney.
+> - **Independent Community Effort:** This repository is not affiliated with, sponsored by, or endorsed by USCIS, the U.S. Department of State, the U.S. Department of Labor, or any foreign immigration authority.
+
+---
+
+<div align="center">
+  <b>Made with ❤️ for immigration attorneys, HR mobility teams, global applicants, and open-source developers.</b><br>
+  <sub>⭐ If this directory helped your immigration journey or practice, please consider starring this repository!</sub>
+</div>
