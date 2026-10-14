@@ -85,7 +85,7 @@
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="270" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.6" stroke-width="1.2" />
       <circle class="status-dot" cx="18" cy="15" r="5" fill="#38bdf8" />
-      <text x="32" y="19" fill="#94a3b8" font-size="12" font-weight="600" letter-spacing="1">CURATED DIRECTORY &bull; 2026</text>
+      <text x="32" y="19" fill="#94a3b8" font-size="12" font-weight="600" letter-spacing="1">CURATED DIRECTORY &#8226; 2026</text>
     </g>
 
     <!-- Main Title -->
@@ -98,7 +98,7 @@
 
     <!-- Subtitle / Tagline -->
     <text x="0" y="162" fill="#94a3b8" font-size="16" font-weight="400">
-      Case Status Monitoring &bull; Priority Dates &bull; Autonomous Workflows &bull; Open-Source &amp; SaaS
+      Case Status Monitoring &#8226; Priority Dates &#8226; Autonomous Workflows &#8226; Open-Source &amp; SaaS
     </text>
 
     <!-- Metrics / Feature Pills Row -->
@@ -133,7 +133,7 @@
       <circle cx="28" cy="30" r="14" fill="#0284c7" fill-opacity="0.25" />
       <text x="22" y="35" fill="#38bdf8" font-size="16">🏛️</text>
       <text x="54" y="27" fill="#f1f5f9" font-size="14" font-weight="700">USCIS &amp; NVC Tracking</text>
-      <text x="54" y="44" fill="#94a3b8" font-size="11">I-485 &bull; I-140 &bull; I-765 &bull; I-130 &bull; N-400</text>
+      <text x="54" y="44" fill="#94a3b8" font-size="11">I-485 &#8226; I-140 &#8226; I-765 &#8226; I-130 &#8226; N-400</text>
       
       <!-- Progress Bar indicator -->
       <rect x="54" y="58" width="220" height="6" rx="3" fill="#334155" />
@@ -147,7 +147,7 @@
       <circle cx="28" cy="30" r="14" fill="#6366f1" fill-opacity="0.25" />
       <text x="22" y="35" fill="#818cf8" font-size="16">⚖️</text>
       <text x="54" y="27" fill="#f1f5f9" font-size="14" font-weight="700">Legal Mobility &amp; CRM</text>
-      <text x="54" y="44" fill="#94a3b8" font-size="11">e-Filing &bull; Form Automation &bull; Priority Dates</text>
+      <text x="54" y="44" fill="#94a3b8" font-size="11">e-Filing &#8226; Form Automation &#8226; Priority Dates</text>
 
       <rect x="54" y="58" width="220" height="6" rx="3" fill="#334155" />
       <rect x="54" y="58" width="195" height="6" rx="3" fill="#818cf8" />
@@ -160,7 +160,7 @@
       <circle cx="28" cy="30" r="14" fill="#059669" fill-opacity="0.25" />
       <text x="22" y="35" fill="#10b981" font-size="16">🔔</text>
       <text x="54" y="27" fill="#f1f5f9" font-size="14" font-weight="700">Autonomous Alerting</text>
-      <text x="54" y="44" fill="#94a3b8" font-size="11">Telegram &bull; Webhooks &bull; Email &bull; Docker</text>
+      <text x="54" y="44" fill="#94a3b8" font-size="11">Telegram &#8226; Webhooks &#8226; Email &#8226; Docker</text>
 
       <rect x="54" y="58" width="220" height="6" rx="3" fill="#334155" />
       <rect x="54" y="58" width="210" height="6" rx="3" fill="#10b981" />
