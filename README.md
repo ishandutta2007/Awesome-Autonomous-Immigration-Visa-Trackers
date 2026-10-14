@@ -4,11 +4,13 @@
 
 # 🌐 Awesome Autonomous Immigration & Visa Trackers ⚡
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers/graphs/commit-activity)
 [![Trackers](https://img.shields.io/badge/Trackers%20%26%20CRMs-25%2B-orange.svg)](#table-of-contents)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <b>A curated directory of Autonomous Immigration Visa Trackers, USCIS Case Monitoring Bots, Document Automation Engines, and Legal Mobility CRMs.</b><br>
@@ -27,6 +29,8 @@
   - [⭐ Top Open-Source Repositories (Ranked by Stars)](#-top-open-source-repositories-ranked-by-stars)
   - [🛠️ Specialized Scrapers, Bots & Automation Workflows](#-specialized-scrapers-bots--automation-workflows)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Security Notice](#-disclaimer--security-notice)
 
 ---
@@ -154,6 +158,24 @@ We welcome community contributions, new project additions, and data corrections!
    - For Open-Source: Full GitHub repo link with matching GitHub Stars badge and license.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTracker project"`)
 5. 📤 **Push to your branch** and open a Pull Request!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-Immigration-Visa-Trackers&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for visiting and using this curated directory! Maintaining and updating these immigration trackers, compliance tools, and open-source ecosystems takes time and community care. 
+
+If you find this repository helpful, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it
+- 🍴 **Fork and contribute** to keep the listings accurate and fresh
+- 📢 **Share with your colleagues, mobility teams, and applicant networks**
+- ☕ **Buy me a coffee / Sponsor on GitHub:** Support ongoing open-source development through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
 
 ---
 
