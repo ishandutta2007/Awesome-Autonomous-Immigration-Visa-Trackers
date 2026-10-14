@@ -73,7 +73,7 @@ Explore community-driven, transparent, and vendor-independent repositories for t
 
 ### ⭐ Top Open-Source Repositories (Ranked by Stars)
 
-| 📦 Repository & Maintainer | 🌟 GitHub Stars Badge | 💻 Tech Stack | 🛡️ License | 📝 Overview & Unique Features |
+| 📦 Repository & Maintainer | 🌟 GitHub_Stars_Badge | 💻 Tech Stack | 🛡️ License | 📝 Overview & Unique Features |
 | :--- | :---: | :--- | :--- | :--- |
 | **[vera-eb-suite](https://github.com/VeraSuperHub/vera-eb-suite)** | [![Stars](https://img.shields.io/github/stars/VeraSuperHub/vera-eb-suite?style=social&color=white)](https://github.com/VeraSuperHub/vera-eb-suite/stargazers) | AI Prompts, Python, LLM | Apache-2.0 | Open-source AI tools and petition frameworks for EB-1A and EB-2 NIW immigration petitions—automating evidence organization, case drafting, and RFE response strategies. |
 | **[National_interest_waiver_waittime](https://github.com/happy-fish-01/National_interest_waiver_waittime)** | [![Stars](https://img.shields.io/github/stars/happy-fish-01/National_interest_waiver_waittime?style=social&color=white)](https://github.com/happy-fish-01/National_interest_waiver_waittime/stargazers) | Python, Data Analytics | MIT | Predictive statistical modeling and wait-time tracker specifically tracking USCIS I-140 Employment-Based EB-2 National Interest Waiver adjudication trends. |
@@ -155,7 +155,7 @@ We welcome community contributions, new project additions, and data corrections!
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-tracker`)
 3. 📝 **Add your project** to either the SaaS or Open-Source table, ensuring:
    - For SaaS: Specific starting tier pricing, explicit free tier / trial limits, and verified scale metrics.
-   - For Open-Source: Full GitHub repo link with matching GitHub Stars badge and license.
+   - For Open-Source: Full GitHub repo link with matching GitHub_Stars_Badge and license.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTracker project"`)
 5. 📤 **Push to your branch** and open a Pull Request!
 
